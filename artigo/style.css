@@ -65,58 +65,70 @@ body{
 main{
     margin-top: 1vh;
 }
+.imgcabeçalho{
+    width: 65vw;
+    margin-left: 6.5vw;
+    margin-top: 30px;
+}
 #pagina1{
     background-color: #6F30A0;
     height: 200vh;
     width: 100%;
-    margin-left: 0.3vw; 
+    margin-left: 3vw; 
     margin-bottom: 3vh;
     -webkit-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.36);
     -moz-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.33);
     box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.33);
-   
-
-
 }
 #pagina2{
      background-color: white;
-    height: 100vh;
+    height: 200vh;
     width: 100%;
-    margin-left: 0.3vw; 
+    margin-left: 3vw; 
     margin-bottom: 3vh;
     -webkit-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.36);
     -moz-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.33);
     box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.33);
 }#pagina3{
      background-color: white;
-    height: 100vh;
+    height: 200vh;
     width: 100%;
-    margin-left: 0.3vw; 
+    margin-left: 3vw; 
     margin-bottom: 3vh;
     -webkit-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.36);
     -moz-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.33);
     box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.33);
 }#pagina4{
      background-color: white;
-    height: 100vh;
+    height: 200vh;
     width: 100%;
-    margin-left: 0.3vw; 
+    margin-left: 3vw; 
     margin-bottom: 3vh;
     -webkit-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.36);
     -moz-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.33);
     box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.33);
-}#pagina5{
+}
+#pagina5{
      background-color: white;
-    height: 100vh;
+    height: 200vh;
     width: 100%;
-    margin-left: 0.3vw; 
+    margin-left: 3vw; 
     margin-bottom: 3vh;
     -webkit-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.36);
     -moz-box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.33);
-    box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.33);}
+    box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.33);
+}
+#imgtabela{
+    width: 55vw;
+    margin-left: 10vw;
+}
+#imgfe1{
+    width: 25vw;
+    margin-left: 27vw;
+}
 #pagina6{
     background-color: white;
-    height: 100vh;
+    height: 200vh;
     width: 100%;
     margin-left: 3vw;
     margin-bottom: 3vh;
@@ -124,10 +136,16 @@ main{
     -moz-box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.36);
     box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.36);
 }
-
+#imgfe{
+    margin-left: 13vw;
+}
+#tabela2{
+    width: 55vw;
+    margin-left: 10vw;
+}
 #pagina7{
     background-color: white;
-    height: 100vh;
+    height: 200vh;
     width: 100%;
     margin-left: 3vw;
     margin-bottom: 3vh;
@@ -135,10 +153,13 @@ main{
     -moz-box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.36);
     box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.36);
 }
-
+#imgbw{
+    width: 62vw;
+    margin-left: 10vw;
+}
 #pagina8{
     background-color: white;
-    height: 100vh;
+    height: 200vh;
     width: 100%;
     margin-left: 3vw;
     margin-bottom: 3vh;
@@ -146,10 +167,13 @@ main{
     -moz-box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.36);
     box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.36);
 }
-
+#gradebw{
+    width: 60vw;
+    margin-left: 10vw;
+}
 #pagina9{
     background-color: white;
-    height: 100vh;
+    height: 200vh;
     width: 100%;
     margin-left: 3vw;
     margin-bottom: 3vh;
@@ -160,7 +184,7 @@ main{
 
 #pagina10{
     background-color: white;
-    height: 100vh;
+    height: 200vh;
     width: 100%;
     margin-left: 3vw;
     margin-bottom: 3vh;
