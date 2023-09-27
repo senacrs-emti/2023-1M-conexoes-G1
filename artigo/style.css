@@ -132,8 +132,8 @@ main{
     margin-left: 15vw;
 }
 #imgfe1{
-    width: 25vw;
-    margin-left: 27vw;
+    width: 16vw;
+    margin-left: 31vw;
 }
 #pagina6{
     background-color: white;
@@ -146,11 +146,12 @@ main{
     box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.36);
 }
 #imgfe{
-    margin-left: 13vw;
+    margin-left: 18vw;
+    width: 40vw;
 }
 #tabela2{
-    width: 55vw;
-    margin-left: 10vw;
+    width: 44vw;
+    margin-left: 16vw;
 }
 #pagina7{
     background-color: white;
@@ -163,8 +164,8 @@ main{
     box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.36);
 }
 #imgbw{
-    width: 62vw;
-    margin-left: 10vw;
+    width: 38vw;
+    margin-left: 20vw;
 }
 #pagina8{
     background-color: white;
@@ -177,8 +178,8 @@ main{
     box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.36);
 }
 #gradebw{
-    width: 60vw;
-    margin-left: 10vw;
+    width: 48vw;
+    margin-left: 15vw;
 }
 #pagina9{
     background-color: white;
@@ -200,4 +201,62 @@ main{
     -webkit-box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.36);
     -moz-box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.36);
     box-shadow: 0px 0px 8px 5px rgba(0,0,0,0.36);
+}
+
+#titulo{
+    font-family: 'Encode Sans SC', sans-serif;
+    font-size: 36px;
+    padding-top: 20vh;
+}
+
+#fernando{
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+#quimica{
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+#lado{
+    padding-right: 10vh;
+}
+
+#chave{
+    padding-left: 14vh;
+}
+
+#res{
+    font-family: 'Encode Sans SC', sans-serif;
+    text-align: justify;
+}
+
+#ensi{
+    float: left;
+}
+
+#palav{
+    float: left;
+    font-family: 'Encode Sans SC', sans-serif;
+}
+
+.textos{
+    padding-left: 18vh;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sabrina{
+    font-size: 20px;
+    font-family: 'Encode Sans SC', sans-serif;
+    color: #6F30A0;
+    padding-left: 18vh;
+}
+.espacamento{
+    margin-left: 60px;
+}
+
+.figs{
+    text-align: center;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;   
 }
