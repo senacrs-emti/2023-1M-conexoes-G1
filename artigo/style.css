@@ -1,3 +1,9 @@
+#top{
+    position: fixed;
+    width: 100%;
+    margin: 0;
+    z-index: 9999;
+}
 #header{
     width: 100%;
     height: 10vh;
@@ -22,7 +28,10 @@ header #emerson, .pedro, #pag, #qui, #pietra, a{
 header #qui{
     width: 22px;
 }
-header #bars, #emerson{
+header #bars{
+    margin-left: 0.5vw;
+}
+header #emerson{
     margin-left: 2vw;
 }
 header #bars{
@@ -46,7 +55,7 @@ header #fir{
     margin-right: 2vw;
 }
 header #ter{
-    margin-left: 20vw;
+    margin-left: 25vw;
 }
 header #qua{
     margin-left: 2vw;
