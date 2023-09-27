@@ -81,7 +81,7 @@ main{
 }
 #pagina1{
     background-color: #6F30A0;
-    height: 230vh;
+    height: 240vh;
     width: 100%;
     margin-left: 3vw; 
     margin-bottom: 3vh;
@@ -91,7 +91,7 @@ main{
 }
 #pagina2{
      background-color: white;
-    height: 230vh;
+    height: 240vh;
     width: 100%;
     margin-left: 3vw; 
     margin-bottom: 3vh;
@@ -100,7 +100,7 @@ main{
     box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.33);
 }#pagina3{
      background-color: white;
-    height: 230vh;
+    height: 240vh;
     width: 100%;
     margin-left: 3vw; 
     margin-bottom: 3vh;
@@ -109,7 +109,7 @@ main{
     box-shadow: 0px 0px 8px 1px rgba(0,0,0,0.33);
 }#pagina4{
      background-color: white;
-    height: 230vh;
+    height: 240vh;
     width: 100%;
     margin-left: 3vw; 
     margin-bottom: 3vh;
@@ -119,7 +119,7 @@ main{
 }
 #pagina5{
      background-color: white;
-    height: 230vh;
+    height: 240vh;
     width: 100%;
     margin-left: 3vw; 
     margin-bottom: 3vh;
@@ -137,7 +137,7 @@ main{
 }
 #pagina6{
     background-color: white;
-    height: 230vh;
+    height: 240vh;
     width: 100%;
     margin-left: 3vw;
     margin-bottom: 3vh;
@@ -155,7 +155,7 @@ main{
 }
 #pagina7{
     background-color: white;
-    height: 230vh;
+    height: 240vh;
     width: 100%;
     margin-left: 3vw;
     margin-bottom: 3vh;
@@ -169,7 +169,7 @@ main{
 }
 #pagina8{
     background-color: white;
-    height: 230vh;
+    height: 240vh;
     width: 100%;
     margin-left: 3vw;
     margin-bottom: 3vh;
@@ -183,7 +183,7 @@ main{
 }
 #pagina9{
     background-color: white;
-    height: 230vh;
+    height: 240vh;
     width: 100%;
     margin-left: 3vw;
     margin-bottom: 3vh;
@@ -194,7 +194,7 @@ main{
 
 #pagina10{
     background-color: white;
-    height: 230vh;
+    height: 240vh;
     width: 100%;
     margin-left: 3vw;
     margin-bottom: 3vh;
@@ -206,7 +206,7 @@ main{
 #titulo{
     font-family: 'Encode Sans SC', sans-serif;
     font-size: 36px;
-    padding-top: 20vh;
+    padding-top: 30vh;
 }
 
 #fernando{
@@ -232,11 +232,13 @@ main{
 
 #ensi{
     float: left;
+    font-size: 17px;
 }
 
 #palav{
     float: left;
     font-family: 'Encode Sans SC', sans-serif;
+    font-size: 20px;
 }
 
 .textos{
